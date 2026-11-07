@@ -39,7 +39,7 @@ volumes:
   - /mnt/user/appdata/homestead-congo:/data
 ```
 
-The server installation passes with 330 jars. Original alpha/beta mod versions and bundled assets remain pinned to the Homestead 2.0.1 manifest.
+The server installer selects 329 jars, excluding 53 client-only and renderer-dependent mods. Original alpha/beta mod versions and bundled assets remain pinned to the Homestead 2.0.1 manifest.
 
 ## Updating the fork
 
