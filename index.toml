@@ -4682,7 +4682,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "a713fe50097548ee329c7f5b36dad28d9f507ae7811bc1cddcc6c9935b188d44"
+hash = "4da3ad4943ca6cb4534f85bd75211de869e0b77a71edc8bd774470849a91b7fa"
 metafile = true
 
 [[files]]
@@ -4722,7 +4722,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
-hash = "38bffba18c74fb62de7b95de62356c0019ac9aa435178179d5aa4fbf91b47952"
+hash = "0ef0d37b022cef3e1974d1772d7fa709f34e181a6eb4c2e6525efc92f8a9089f"
 metafile = true
 
 [[files]]
@@ -5112,7 +5112,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "0a563efdc93e6b04ef72f23818537cd1940ed77bcd0750b88f93ba978f90779e"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
