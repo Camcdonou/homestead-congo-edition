@@ -1,0 +1,13 @@
+name = "BEBPM"
+filename = "bebpm-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d1a1447d3e5e3e40fb39dda3d9eb21345084e90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8882881
+project-id = 1462757

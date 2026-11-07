@@ -1,0 +1,13 @@
+name = "Wireless Redstone"
+filename = "wirelessredstone-fabric-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c36ec4e450b32448a5408a95c109ba3e823e71f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5175782
+project-id = 409660

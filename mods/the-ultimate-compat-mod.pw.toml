@@ -1,0 +1,13 @@
+name = "The Ultimate Compat Mod"
+filename = "theultimatecompatmod-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1147d0386bb0d52701e317796001e7f2e5fcbaf9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9346755
+project-id = 1630976

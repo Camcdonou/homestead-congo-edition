@@ -1,0 +1,13 @@
+name = "Subtle Effects"
+filename = "SubtleEffects-fabric-1.20.1-1.15.1-hotfix.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0795fac759dc5169223394d45ac023cc7780da25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9166319
+project-id = 1023913

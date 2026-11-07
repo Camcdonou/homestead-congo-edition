@@ -1,0 +1,13 @@
+name = "Dyed End"
+filename = "dyedend-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2b4db772af6f596637a421da2f8e3e5bc889d06"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7097701
+project-id = 1363591

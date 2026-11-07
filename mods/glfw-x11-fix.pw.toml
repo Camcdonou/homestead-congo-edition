@@ -1,0 +1,13 @@
+name = "GLFW X11 Fix"
+filename = "glfw-x11-fix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23287643c02f91f2b234b6d6b4904b41d13c771d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8834000
+project-id = 1686695

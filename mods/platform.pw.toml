@@ -1,0 +1,13 @@
+name = "Platform"
+filename = "Platform-fabric-1.20.1-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "511cb49eb2fa292d1b517f44217dd70e582d3203"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9318516
+project-id = 997634

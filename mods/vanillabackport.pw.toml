@@ -1,0 +1,13 @@
+name = "Vanilla Backport"
+filename = "VanillaBackport-fabric-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fcdffbc2eabfed3a72c51edd0b593dc233ecdc7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9318538
+project-id = 417430

@@ -1,0 +1,40 @@
+{
+  "name": "Welcome to Homestead",
+  "icon": "cozystudioscore:golden_leaf",
+  "category": "patchouli:welcome",
+  "pages": [
+    {
+      "type": "text",
+      "title": "A Labor of Love",
+      "text": "$(br)Homestead is a hand-built modpack from Tokimi and the CozyStudios Team. It took over 6 months, hundreds of hours, and way too many cups of coffee."
+    },
+    {
+      "type": "text",
+      "title": "The Heart of the Pack",
+      "text": "$(br)Homestead is a Vanilla Plus modpack. It still feels like Minecraft, but with a bunch of new biomes, mobs, blocks, and small quality-of-life touches layered in. Build, explore, farm, hoard, whatever you're into."
+    },
+    {
+      "type": "text",
+      "title": "A Guide Through the Quiet",
+      "text": "$(br)The quest book is your main guide. Follow it in order or skip around, your call. It walks you through the mods, points out what's worth your attention, and hands out rewards along the way. It answers most questions as well, so make sure to check there first!"
+    },
+    {
+      "type": "text",
+      "title": "Don't Miss the Tips",
+      "text": "$(br)Check the Tips chapter in the quest book. It covers mod features that aren't obvious, keybinds you probably don't know, and shortcuts that'll save you time. Worth a scroll even if you've been playing for a while."
+    },
+    {
+      "type": "text",
+      "title": "Enjoy the Journey",
+      "text": "$(br)That's it. Have fun, break things, come hang out in the Discord if you run into anything weird or want to show off a build. We're glad you're here."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/welcome/logo.png"
+      ],
+      "border": true,
+      "text": "$(br)Huge thanks to Meleon, Army, Lyn, Yuki, Nylon, Alexelle, Gonzo, Cobra, Mama, Bloxcrew, Snowy, Wist, Xod, and Navinor for alpha and beta testing ♡"
+    }
+  ]
+}

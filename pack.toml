@@ -1,0 +1,14 @@
+name = "Homestead Congo Edition"
+author = "Tokimi; Congo Edition fork by Camcdonou"
+version = "2.0.1+congo.1"
+description = "Homestead 2.0.1 with Origins 1.10.2. Original Homestead by Tokimi: https://www.curseforge.com/minecraft/modpacks/homestead-cozy"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0066d4aa397fdb528a7b5631668119bf60167ff8f89c263a6f521d73bb189b6b"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.20.1"

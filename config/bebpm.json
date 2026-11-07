@@ -1,0 +1,8 @@
+{
+  "radiusX": 10,
+  "radiusZ": 10,
+  "radiusUp": 10,
+  "radiusDown": 10,
+  "lineOfSight": "OFF",
+  "decorPermeable": []
+}

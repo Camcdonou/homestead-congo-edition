@@ -1,0 +1,13 @@
+name = "SpawnFilter"
+filename = "spawnfilter-fabric-1.1.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f1f9c6a0c1ef47162dd9dff1303951ab87e7f19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9319050
+project-id = 1478088

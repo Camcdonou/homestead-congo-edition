@@ -1,0 +1,13 @@
+name = "Skin Layers 3D"
+filename = "skinlayers3d-fabric-1.11.4-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e49ee3cebde95b398ed00de1dd8cd0815a7c152e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9243643
+project-id = 521480

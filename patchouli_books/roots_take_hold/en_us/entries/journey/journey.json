@@ -1,0 +1,103 @@
+{
+  "name": "Roots Take Hold",
+  "icon": "minecraft:flower_pot",
+  "category": "patchouli:journey",
+  "pages": [
+    {
+      "type": "text",
+      "title": "First Day Here",
+      "text": "I recently arrived in this forest and couldn't stop admiring this beautiful scenery. The only thing I can hear is the sound of the wind and the trees cracking. Makes me feel lonely. I hope to find another person soon."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/of_soil_and_sky.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "The First Roof",
+      "text": "$(br)Won't survive much further without shelter. I made a basic tent with some planks, compacted dirt for the floor, and put a fireplace in the middle. Nothing fancy, but it'll do the work."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/the_shape_of_shelter.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "What The Leaves Do",
+      "text": "$(br)If you are a good observer, you can read the trees pretty easily. Their leaves change colors with the seasons. They turned a beautiful golden for a week during fall. I'm trying to take notes and study that behavior."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/the_language_of_leaves.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "The Carved Stone",
+      "text": "$(br)Found a strange looking stone while returning home. It has some sort of glyphs engraved on it. Found two more after and all of them were in the roots of the trees. Someone was here before... I hope nothing bad happens."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/underfoot_unseen.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Purple Hands",
+      "text": "$(br)I feel like a druid, living like this. All my clothes and hands are purple from eating so many berries. Scavenging apples from the trees and mushrooms off the dead logs."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/harvests_small_and_sweet.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Sore Hands",
+      "text": "$(br)Been having a bit of a routine. Wake up, chop some wood, adventure in the mines, harvest food, sleep. My hands are all sore and hurt, but I sleep better than ever. Keeps me from thinking too much."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/hands_in_harmony.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "The Dark",
+      "text": "$(br)I was so terrified of the night at first. Always had my door blocked and slept holding a sword. Got used to it now. Being in complete darkness with only the sound of nature feels calming."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/nights_that_hold_you.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Still Digging",
+      "text": "$(br)Can't get these weird carved stones out of my head. It's like they were rooted in my brain, waiting to be discovered and decrypted by me, like they were calling me. I don't know what's going on here, but it's very deep. If you are reading this, there's no way back. You are rooted here too."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/pages_yet_to_grow.png"
+      ],
+      "border": true
+    }
+  ]
+}

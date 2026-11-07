@@ -1,0 +1,13 @@
+name = "FroglightsReimagined"
+filename = "froglightsreimagined-fabric-1.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5a07f945d75921b0e425c48f015ee9cb2a4c7e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9064613
+project-id = 1361021

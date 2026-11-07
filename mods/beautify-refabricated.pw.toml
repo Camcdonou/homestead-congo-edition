@@ -1,0 +1,13 @@
+name = "Beautify: Refabricated"
+filename = "beautify-3.5.5-fabric+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d27a5140e6e458efee6d5c82bc9edb33671783a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9309942
+project-id = 809311

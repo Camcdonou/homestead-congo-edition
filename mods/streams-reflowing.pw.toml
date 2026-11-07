@@ -1,0 +1,13 @@
+name = "Streams Reflowing"
+filename = "StreamsReflowing-1.20.1-fabric-2.15.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ac5b3ba1972c8eadf4338b6eb7d858078794a78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9216753
+project-id = 1581408

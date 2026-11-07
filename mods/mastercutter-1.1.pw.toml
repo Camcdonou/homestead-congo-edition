@@ -1,0 +1,12 @@
+name = "[Mod] MasterCutter v1.1 - 1.20.x"
+filename = "mastercutter-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DuUMFIfX/versions/Rrk1Nhoe/mastercutter-1.1.jar"
+hash-format = "sha1"
+hash = "4a02fcc1bd19140570fbaae56112d554e0a7b26b"
+
+[update.modrinth]
+mod-id = "DuUMFIfX"
+version = "Rrk1Nhoe"

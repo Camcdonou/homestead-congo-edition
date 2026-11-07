@@ -1,0 +1,13 @@
+name = "Soundscape"
+filename = "soundscape-fabric-2.3+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0484e5346f038421807926327ad942a5bb03b1ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9252983
+project-id = 1453324

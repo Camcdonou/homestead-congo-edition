@@ -1,0 +1,38 @@
+[spawnfilter]
+# Individual blocks the player cannot spawn on
+blocked_blocks = [
+    "minecraft:water",
+    "minecraft:lava",
+    "minecraft:magma_block"
+]
+
+# Block tags whose member blocks the player cannot spawn on
+# Use the # prefix convention to denote tags, mirroring Minecraft tag syntax
+blocked_tags = [
+    "#minecraft:fire",
+    "#minecraft:wool",
+    "#c:fluids",
+    "#minecraft:leaves"
+]
+
+# Specific biomes (by id) the player cannot spawn in
+blocked_biomes = []
+
+# Biome tags whose member biomes the player cannot spawn in
+# Defaults block every variant of ocean + rivers so no one lands in open water
+blocked_biome_tags = [
+    "#minecraft:is_ocean",
+    "#minecraft:is_deep_ocean",
+    "#minecraft:is_river"
+]
+
+# How far (in blocks) to spiral outward searching for a safe spawn before giving up
+max_search_radius = 1024
+
+# If true, when no safe spawn is found within max_search_radius, place a tiny
+# platform under the player so they do not spawn in water or lava. If false, the
+# player is left where vanilla put them.
+build_safety_platform = true
+
+# Block used for the last-resort safety platform
+safety_platform_block = "minecraft:stone"

@@ -1,0 +1,13 @@
+name = "Squish"
+filename = "squish-fabric-1.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7c5ca441943d6140f7c47b478f4c8b8cf599f29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8855122
+project-id = 1383770

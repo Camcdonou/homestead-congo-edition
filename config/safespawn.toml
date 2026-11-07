@@ -1,0 +1,16 @@
+[safespawn]
+# Individual blocks the player cannot spawn on
+blocked_blocks = [
+    "minecraft:water",
+    "minecraft:lava",
+    "minecraft:magma_block"
+]
+
+# Block tags whose member blocks the player cannot spawn on
+# Use the # prefix convention to denote tags, mirroring Minecraft tag syntax
+blocked_tags = [
+    "#minecraft:fire",
+    "#minecraft:wool",
+    "#c:fluids",
+    "#minecraft:leaves"
+]

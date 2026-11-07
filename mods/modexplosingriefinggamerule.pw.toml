@@ -1,0 +1,13 @@
+name = "Mob Explosion Griefing Gamerule"
+filename = "mob_explosion_griefing-2.1.0+1.20-1.20.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "329ff313aff398c95ca903cfb27c95d397e372f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9038426
+project-id = 759584

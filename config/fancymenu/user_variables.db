@@ -1,0 +1,14 @@
+type = user_variables
+
+variable {
+  name = disclaimer_shown
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = homestead_update_seen
+  value = 2.0.0
+  reset_on_launch = false
+}
+

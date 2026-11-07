@@ -1,0 +1,12 @@
+name = "Riding Mouse Fix 1.0.0"
+filename = "ridingmousefix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kwS02byl/versions/IocX87m3/ridingmousefix-1.0.0.jar"
+hash-format = "sha1"
+hash = "ada7508c9967b54fa88542a082e096babca25235"
+
+[update.modrinth]
+mod-id = "kwS02byl"
+version = "IocX87m3"

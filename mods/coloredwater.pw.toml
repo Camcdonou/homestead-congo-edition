@@ -1,0 +1,13 @@
+name = "ColoredWater"
+filename = "Colored Water-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35f8a551a8da103024e699495a2a13706739865e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7160210
+project-id = 534920

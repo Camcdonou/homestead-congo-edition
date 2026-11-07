@@ -1,0 +1,13 @@
+name = "Endercon"
+filename = "endercon-1.0.2 [Fabric-Quilt].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38314a5011c1a1fedf45cbdc80c7a88247a2a1be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5843817
+project-id = 1127816

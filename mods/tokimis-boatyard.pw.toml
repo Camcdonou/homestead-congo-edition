@@ -1,0 +1,13 @@
+name = "Tokimi's Boatyard"
+filename = "tokimiboatyard-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ca52f4045fb930f591895684e377b10c5b62891"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9155170
+project-id = 1703927
