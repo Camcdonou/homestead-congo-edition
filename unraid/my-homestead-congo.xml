@@ -29,7 +29,6 @@
   <Config Name="Loader" Target="TYPE" Default="FABRIC" Mode="" Description="Minecraft server type." Type="Variable" Display="always" Required="true" Mask="false">FABRIC</Config>
   <Config Name="Minecraft version" Target="VERSION" Default="1.20.1" Mode="" Description="Pinned Minecraft version." Type="Variable" Display="always" Required="true" Mask="false">1.20.1</Config>
   <Config Name="Fabric version" Target="FABRIC_LOADER_VERSION" Default="0.19.5" Mode="" Description="Pinned Fabric loader version." Type="Variable" Display="always" Required="true" Mask="false">0.19.5</Config>
-  <Config Name="Packwiz URL" Target="PACKWIZ_URL" Default="https://raw.githubusercontent.com/Camcdonou/homestead-congo-edition/main/pack.toml" Mode="" Description="Updater source used on container start." Type="Variable" Display="always" Required="true" Mask="false">https://raw.githubusercontent.com/Camcdonou/homestead-congo-edition/main/pack.toml</Config>
   <Config Name="Initial memory" Target="INIT_MEMORY" Default="6G" Mode="" Description="Initial Java heap." Type="Variable" Display="always" Required="true" Mask="false">6G</Config>
   <Config Name="Maximum memory" Target="MAX_MEMORY" Default="8G" Mode="" Description="Maximum Java heap; container limit is 10 GB." Type="Variable" Display="always" Required="true" Mask="false">8G</Config>
   <Config Name="Time zone" Target="TZ" Default="America/New_York" Mode="" Description="Server time zone." Type="Variable" Display="advanced" Required="false" Mask="false">America/New_York</Config>

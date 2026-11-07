@@ -22,7 +22,7 @@ Afterward, every launch checks for updates and downloads only changed files. Pla
 
 ## Dedicated server
 
-The original 52 explicitly client-only Fabric mods are marked `side = "client"`. The itzg Minecraft server image can install and update the shared/server mods from this repository:
+The original 52 explicitly client-only Fabric mods are marked `side = "client"`. The dedicated server uses the shared/server mod set from this repository, with unsafe renderer-only mods excluded.
 
 ```yaml
 environment:
@@ -30,7 +30,6 @@ environment:
   TYPE: FABRIC
   VERSION: "1.20.1"
   FABRIC_LOADER_VERSION: "0.19.5"
-  PACKWIZ_URL: https://raw.githubusercontent.com/Camcdonou/homestead-congo-edition/main/pack.toml
   INIT_MEMORY: 6G
   MAX_MEMORY: 8G
 ports:
@@ -39,7 +38,7 @@ volumes:
   - /mnt/user/appdata/homestead-congo:/data
 ```
 
-The server installer selects 329 jars, excluding 53 client-only and renderer-dependent mods. Original alpha/beta mod versions and bundled assets remain pinned to the Homestead 2.0.1 manifest.
+The server installer selects 328 jars, excluding 54 client-only and renderer-dependent mods. Original alpha/beta mod versions and bundled assets remain pinned to the Homestead 2.0.1 manifest.
 
 ## Updating the fork
 

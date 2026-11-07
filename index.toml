@@ -4123,7 +4123,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "e04c59aff44ab42165b868ba6cf080f6a77e245b99f0fc2e66b602137f679c0e"
+hash = "d158cf122fa6ba0607c4be8a5c74c2887d49b1f14b62587947f072cc8cb2b6a8"
 metafile = true
 
 [[files]]
@@ -14504,7 +14504,3 @@ hash = "b28c5f96c74a4c2fb6cde670e9cadd0493216c0eb1988ee08ae9789e655d5e60"
 file = "supplementaries-compat.pw.toml"
 hash = "b61ae0df078cdd9961fd91013c707373ad84dd30df1bf9386626ae1b6c553260"
 metafile = true
-
-[[files]]
-file = "unraid/my-homestead-congo.xml"
-hash = "2b948c953c8f698ddb144f9972ce38f0ef765fd2f571a49ba712bc6864f1c7c8"
