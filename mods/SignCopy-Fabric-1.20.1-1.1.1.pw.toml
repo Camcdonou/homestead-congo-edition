@@ -1,6 +1,6 @@
 name = "Sign Copy"
 filename = "SignCopy-Fabric-1.20.1-1.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/cK4nxndh/versions/1SWfJvWV/SignCopy-Fabric-1.20.1-1.1.1.jar"

@@ -11,17 +11,35 @@ Homestead 2.0.1, with [Origins](https://modrinth.com/mod/origins) added.
 
 This is a small derivative pack for friends. It is not affiliated with or endorsed by Tokimi or the Origins developers. All ordinary mods are downloaded from their original CurseForge or Modrinth distribution URLs rather than stored in this repository. The two original bundled jars without an exact source match remain in `mods/`.
 
-## Install or update in Prism Launcher
+## Install in Prism Launcher
 
-1. Open **Prism Launcher**.
-2. Choose **Add Instance → Import from URL**.
-3. Paste:
-   ```text
-   https://camcdonou.github.io/homestead-congo-edition/pack.toml
-   ```
-4. Confirm the import.
+1. Download the small installer ZIP:
+   [Homestead-Congo-Edition-Prism.zip](https://github.com/Camcdonou/homestead-congo-edition/releases/latest/download/Homestead-Congo-Edition-Prism.zip)
+2. In Prism choose **Add Instance → Import from zip** and select the downloaded file.
+3. Launch **Homestead Congo Edition**. The pre-launch installer downloads the full pack on its first run.
 
-To update an installed instance later, use Prism's **Update** action for the instance. The URL stays the same across releases. Only changed files should be fetched.
+Afterward, every launch checks for updates and downloads only changed files. Players do not need to re-import the ZIP.
+
+## Dedicated server
+
+The original 52 explicitly client-only Fabric mods are marked `side = "client"`. The itzg Minecraft server image can install and update the shared/server mods from this repository:
+
+```yaml
+environment:
+  EULA: "TRUE"
+  TYPE: FABRIC
+  VERSION: "1.20.1"
+  FABRIC_LOADER_VERSION: "0.19.5"
+  PACKWIZ_URL: https://raw.githubusercontent.com/Camcdonou/homestead-congo-edition/main/pack.toml
+  INIT_MEMORY: 6G
+  MAX_MEMORY: 8G
+ports:
+  - "25555:25565"
+volumes:
+  - /mnt/user/appdata/homestead-congo:/data
+```
+
+The server installation passes with 330 jars. Original alpha/beta mod versions and bundled assets remain pinned to the Homestead 2.0.1 manifest.
 
 ## Updating the fork
 

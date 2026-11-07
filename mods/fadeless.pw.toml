@@ -1,6 +1,6 @@
 name = "Fadeless"
 filename = "fadeless-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ncKjyGm3/versions/j53ChsnW/fadeless-1.0.1.jar"

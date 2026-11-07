@@ -1,6 +1,6 @@
 name = "GLFW X11 Fix"
 filename = "glfw-x11-fix-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/2Q6jUEQa/versions/YIDHXSu0/glfw-x11-fix-1.0.0.jar"

@@ -1,6 +1,6 @@
 name = "Iris/Oculus & GeckoLib Compat"
 filename = "GeckoLibIrisCompat-Fabric-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/TbriQCWD/versions/3Q4qBNwT/GeckoLibIrisCompat-Fabric-1.0.0.jar"

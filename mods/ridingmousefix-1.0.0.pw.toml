@@ -1,6 +1,6 @@
 name = "Riding Mouse Fix"
 filename = "ridingmousefix-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/kwS02byl/versions/IocX87m3/ridingmousefix-1.0.0.jar"

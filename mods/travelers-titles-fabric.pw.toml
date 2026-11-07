@@ -1,6 +1,6 @@
 name = "Traveler's Titles"
 filename = "TravelersTitles-1.20-Fabric-4.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/JtifUr64/versions/MbifZGB0/TravelersTitles-1.20-Fabric-4.0.2.jar"

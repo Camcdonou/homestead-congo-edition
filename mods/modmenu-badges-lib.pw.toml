@@ -1,6 +1,6 @@
 name = "ModMenu Badges Lib"
 filename = "modmenu-badges-lib-2023.6.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/eUw8l2Vi/versions/n5smDDrP/modmenu-badges-lib-2023.6.1.jar"
