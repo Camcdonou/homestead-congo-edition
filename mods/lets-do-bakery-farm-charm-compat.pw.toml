@@ -3,11 +3,11 @@ filename = "letsdo-bakery-fabric-2.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "203dd030920eda073520f0fe9c3de47259234480"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oNB5jhlA/versions/KEv4JeEB/letsdo-bakery-fabric-2.0.6.jar"
+hash-format = "sha512"
+hash = "129d664e0e9e05eab2ea6e8aef27f7cf741ba419d90617e9943d2db254c73d549b0632a2ee821a3b80c4455d918773fc3becbb9019c2a572c9d727726de525ca"
 
 [update]
-[update.curseforge]
-file-id = 6847991
-project-id = 1038130
+[update.modrinth]
+mod-id = "oNB5jhlA"
+version = "KEv4JeEB"

@@ -3,11 +3,11 @@ filename = "flower-tweaks-1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b80badae26d319ecb7b678f56abfa761d1a5324c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/JSMwcdt3/versions/NAGMctke/flower-tweaks-1.jar"
+hash-format = "sha512"
+hash = "cb36e76f048fd2522b9d52e9760e93f81ae793cceae80ec80dd2f9e782a9d94686865366f984078331c8b4cc0d3cd2d0befafebaafaee06f554bd152d74e3da4"
 
 [update]
-[update.curseforge]
-file-id = 5299563
-project-id = 1010566
+[update.modrinth]
+mod-id = "JSMwcdt3"
+version = "NAGMctke"

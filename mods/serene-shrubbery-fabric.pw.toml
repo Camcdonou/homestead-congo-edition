@@ -1,13 +1,13 @@
-name = "Serene Shrubbery Refabricated"
+name = "Serene Shrubbery (Fabric)"
 filename = "serene_shrubbery-fabric-1.2.1+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3638a0dbbff55cc49ae13c49d6248234c71dcf5e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3RUivYTo/versions/XfSsaYti/serene_shrubbery-fabric-1.2.1%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "f5d68e4588c428da85fdbe6548d0705c873f90ac174dd5e609e608418e1b21ee69e0f6eb84c479f51d0674e41fef2fbb15dfbc358da1ea4139f1650eb0a5b800"
 
 [update]
-[update.curseforge]
-file-id = 8619830
-project-id = 1446593
+[update.modrinth]
+mod-id = "3RUivYTo"
+version = "XfSsaYti"

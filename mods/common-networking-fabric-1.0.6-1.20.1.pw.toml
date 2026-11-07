@@ -1,12 +1,13 @@
-name = "common-networking-fabric-1.0.6-1.20.1"
+name = "Common Network"
 filename = "common-networking-fabric-1.0.6-1.20.1.jar"
 side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HIuqnQpi/versions/dqeVoHmO/common-networking-fabric-1.0.6-1.20.1.jar"
-hash-format = "sha1"
-hash = "d2c75f594bc41aaefe865c4023bd7690567fd962"
+hash-format = "sha512"
+hash = "23805d01173f4c23be00c9ac2713da0b5a113c6fd40fb6cb0da243561ba2394456cabadda9735bf32574d3b4302e18cf77a8ca5aafe017a6146baeef74a797c3"
 
+[update]
 [update.modrinth]
 mod-id = "HIuqnQpi"
 version = "dqeVoHmO"

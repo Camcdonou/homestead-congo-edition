@@ -3,11 +3,11 @@ filename = "more-enchantment-info-0.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7d4e14d9f9ea588b927145833b851584b66458cf"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/TIo1UXXV/versions/1uJuD5ye/more-enchantment-info-0.2.0.jar"
+hash-format = "sha512"
+hash = "4225cee37d72e5844951fd1db1d278aba36b0c069314e7e2f3c343473a66093390f3183a4bcbff05cb33d512e1acf82416f319993a679c872c13934ebf03c4ba"
 
 [update]
-[update.curseforge]
-file-id = 6115805
-project-id = 1166503
+[update.modrinth]
+mod-id = "TIo1UXXV"
+version = "1uJuD5ye"

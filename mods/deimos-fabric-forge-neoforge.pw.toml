@@ -1,13 +1,13 @@
-name = "Deimos Lib"
+name = "Deimos"
 filename = "deimos-1.20.1-fabric-2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9ed2f4a6847a039790490bbeae303132bf4ceb7f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/mvBEs5e7/deimos-1.20.1-fabric-2.4.jar"
+hash-format = "sha512"
+hash = "926e7040b9e72e74671db71ab150a9108fb0d2b460441fda09a418329c8f4960b9ff576b9db2bb0b94af42bd14a9c29183e766d7beaf46d8bdcd46235557bc63"
 
 [update]
-[update.curseforge]
-file-id = 6984568
-project-id = 1158094
+[update.modrinth]
+mod-id = "WQaxNzFg"
+version = "mvBEs5e7"

@@ -3,11 +3,11 @@ filename = "icys-better-horses-2.1.7-fab-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2d744e7090367a9e73638ac0c451a4a834026d8c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XlUm5I57/versions/KrdgJ4nS/icys-better-horses-2.1.7-fab-1.20.1.jar"
+hash-format = "sha512"
+hash = "c1f27f6d034620e7aabcf8ebbc94e2e16f454b458b1b67985b14d7f71a0a5db78e475b3dc89b32bdd9b421284cf25c37e0af8695f06579886dbcc03c1332d748"
 
 [update]
-[update.curseforge]
-file-id = 9320154
-project-id = 1527172
+[update.modrinth]
+mod-id = "XlUm5I57"
+version = "KrdgJ4nS"

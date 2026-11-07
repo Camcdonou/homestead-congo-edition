@@ -3,11 +3,11 @@ filename = "letsdo-brewery-fabric-2.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "626c51b6474da30250b7ad793f8d210943b8c819"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/b7NV2plI/versions/W2QrBsrL/letsdo-brewery-fabric-2.0.6.jar"
+hash-format = "sha512"
+hash = "9fe9c809215874453f1f7d832975d0855b0d66e0b8b4933a4182aadeed52899b4b9c49680cd1a7325eefafe72541b3ba6b44e90ee4039b21a6a14ccc7afcff35"
 
 [update]
-[update.curseforge]
-file-id = 6847828
-project-id = 1038106
+[update.modrinth]
+mod-id = "b7NV2plI"
+version = "W2QrBsrL"

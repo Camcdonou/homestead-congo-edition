@@ -3,11 +3,11 @@ filename = "letsdocompat-fabric-2.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "83b674042cc48ecb2d7f7e5aab0fde4f8594c3fb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/FNi5IMiX/versions/8la3SE7N/letsdocompat-fabric-2.2.4.jar"
+hash-format = "sha512"
+hash = "ca79014e0aace5323cab2f264d40cfbdc52827a74249eca7dede77f70022c16aa2b16ff7a3c8619c5c467866247fa063c8fde9f53e94c04b87206957c7a0d2cc"
 
 [update]
-[update.curseforge]
-file-id = 7041984
-project-id = 992333
+[update.modrinth]
+mod-id = "FNi5IMiX"
+version = "8la3SE7N"

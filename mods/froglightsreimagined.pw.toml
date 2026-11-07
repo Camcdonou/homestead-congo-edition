@@ -3,11 +3,11 @@ filename = "froglightsreimagined-fabric-1.0+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d5a07f945d75921b0e425c48f015ee9cb2a4c7e8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/t9byj1DE/versions/vTuQcfJm/froglightsreimagined-fabric-1.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "4a711fa495d5630d9bd506572d92fbe344c5bd65ead49ae37d4e78935f1cdb50e75ef61536760febb5051ce4cb9da04eb04d666a8bee03049bddae5d403b9e53"
 
 [update]
-[update.curseforge]
-file-id = 9064613
-project-id = 1361021
+[update.modrinth]
+mod-id = "t9byj1DE"
+version = "vTuQcfJm"

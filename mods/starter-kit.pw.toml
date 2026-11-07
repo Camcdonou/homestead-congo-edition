@@ -3,11 +3,11 @@ filename = "starterkit-1.20.1-8.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4eb8a9f28d32dfb678c6cfed1d992a9ededa842d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6L3ydNi8/versions/7Jgf2aNZ/starterkit-1.20.1-8.1.jar"
+hash-format = "sha512"
+hash = "385e40ad8ba60e8a82274c9e2e30c8382f7634202d16e067c751f39023933cd58736ab27241179a18135d9eabecc09419082059a2774c639fe8159720b596bc7"
 
 [update]
-[update.curseforge]
-file-id = 8211720
-project-id = 390717
+[update.modrinth]
+mod-id = "6L3ydNi8"
+version = "7Jgf2aNZ"

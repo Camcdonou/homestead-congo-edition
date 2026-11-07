@@ -3,11 +3,11 @@ filename = "glfw-x11-fix-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "23287643c02f91f2b234b6d6b4904b41d13c771d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2Q6jUEQa/versions/YIDHXSu0/glfw-x11-fix-1.0.0.jar"
+hash-format = "sha512"
+hash = "c1735fd6bdc4746b9d436097c13b26bbbe92bdbfbc3f50a6e1085407c1d6c8787689395b485800ad6aeb2247c4a10febf73517476f3ea1db557ea0ffaa07ef61"
 
 [update]
-[update.curseforge]
-file-id = 8834000
-project-id = 1686695
+[update.modrinth]
+mod-id = "2Q6jUEQa"
+version = "YIDHXSu0"

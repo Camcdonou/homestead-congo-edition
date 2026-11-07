@@ -3,11 +3,11 @@ filename = "echoes_of_the_end__structures Forge Fabric 1.20.1 -12.00.13.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0fdd5f50be8006f214be445e8f320078431fff43"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/eVpstLY3/versions/3xJcWxC9/echoes_of_the_end__structures%20Forge%20Fabric%201.20.1%20-12.00.13.jar"
+hash-format = "sha512"
+hash = "dbc1464670965c9065f35d6c851b9764653d5bdde390bc0ba0f525eea07ce9b1f6549c7e6af371cad0ec08b30d51334bf0edef846a1b2ced9d5c2ce40594e3af"
 
 [update]
-[update.curseforge]
-file-id = 8083837
-project-id = 1218690
+[update.modrinth]
+mod-id = "eVpstLY3"
+version = "3xJcWxC9"

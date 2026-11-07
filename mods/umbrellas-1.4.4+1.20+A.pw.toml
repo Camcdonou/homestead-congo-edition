@@ -1,12 +1,13 @@
-name = "Umbrellas 1.4.4+1.20+A"
+name = "Umbrellas"
 filename = "umbrellas-1.4.4+1.20+A.jar"
 side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dgTb67Ox/versions/9HHIYIxr/umbrellas-1.4.4%2B1.20%2BA.jar"
-hash-format = "sha1"
-hash = "a3ebe23a07d875e149133cadefd1092a711ff8ca"
+hash-format = "sha512"
+hash = "bbdbb31f3e351a0d6287fba3e0584cebbaa603e047f21fe5ac29e50e37446486abeceaddb7e8fa2c22fb0271cab1d8026de657de0069928bff5422a67400c613"
 
+[update]
 [update.modrinth]
 mod-id = "dgTb67Ox"
 version = "9HHIYIxr"

@@ -3,11 +3,11 @@ filename = "CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1ebed67d2594bb2b441aef68bab540ca5a62869a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/3q9j0cNZ/CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar"
+hash-format = "sha512"
+hash = "54b056031e26cb957329129188d946b1d6f07df3f987b962aadd1c3fb4ed81109833c6127a5fae889aaabb2f6a6968bd56abfad8d9d09317bdc6947ab7f268dc"
 
 [update]
-[update.curseforge]
-file-id = 9037025
-project-id = 257814
+[update.modrinth]
+mod-id = "OsZiaDHq"
+version = "3q9j0cNZ"

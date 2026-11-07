@@ -3,11 +3,11 @@ filename = "theultimatecompatmod-1.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1147d0386bb0d52701e317796001e7f2e5fcbaf9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/GgMj4Xam/versions/UQo47lgk/theultimatecompatmod-1.6.0.jar"
+hash-format = "sha512"
+hash = "baab9b3bd863696c8bd99056827d6ac1d1f0981dbf340b63d018108b41fc8e25908180ac016c93f59743978919ee9437e51d7f4b740439166fb3f2c40ae74a3a"
 
 [update]
-[update.curseforge]
-file-id = 9346755
-project-id = 1630976
+[update.modrinth]
+mod-id = "GgMj4Xam"
+version = "UQo47lgk"

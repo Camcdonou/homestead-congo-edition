@@ -3,11 +3,11 @@ filename = "open-parties-and-claims-fabric-1.20.1-0.31.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bedb4a163ad85d774300679e4b1db90ab6de9609"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/OS5k88QJ/open-parties-and-claims-fabric-1.20.1-0.31.6.jar"
+hash-format = "sha512"
+hash = "c32d0ab5a72e375c37fc21ba95ce6768f8734879caaefcbd13e75c0d0f0da1ad0ade20739add8a0e0829b551319c643937fd207c2c57827c60eae3263e24bab6"
 
 [update]
-[update.curseforge]
-file-id = 8848838
-project-id = 636608
+[update.modrinth]
+mod-id = "gF3BGWvG"
+version = "OS5k88QJ"

@@ -3,11 +3,11 @@ filename = "immersive_furniture-fabric-0.3.3+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "eda9eed1dbcc50ca9ea4f2b6221f163b49ccc19e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/SvN6UGeF/versions/m9mxTFIS/immersive_furniture-fabric-0.3.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "7a15345311c29098b2724761958ef494cd21277baf854d0a5df77c4c42419dfc0ed5426d696db8236d8973646e52aeb65f21fd371b141d3d6816adc96b3f877f"
 
 [update]
-[update.curseforge]
-file-id = 8563606
-project-id = 1283531
+[update.modrinth]
+mod-id = "SvN6UGeF"
+version = "m9mxTFIS"

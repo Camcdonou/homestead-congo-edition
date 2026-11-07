@@ -1,13 +1,13 @@
-name = "BEBPM"
+name = "Better Enchantment Bookshelf Placement Mod"
 filename = "bebpm-1.0.0-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1d1a1447d3e5e3e40fb39dda3d9eb21345084e90"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Iy9ysWVc/versions/4qVriild/bebpm-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "b07c8a18716b28cf6baba0d0087093e918518bea5752b96cffc27500dd4795616b3e0cb2ad5de6aef03a079c6b28c7e63589ef59e602418359e0ff6b102337a1"
 
 [update]
-[update.curseforge]
-file-id = 8882881
-project-id = 1462757
+[update.modrinth]
+mod-id = "Iy9ysWVc"
+version = "4qVriild"

@@ -3,11 +3,11 @@ filename = "celesteconfig-fabric-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5c33467134a135c8034b5c1679434a0c0db8becd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/C5tEOKu9/versions/PudROtuJ/celesteconfig-fabric-1.20.1-1.1.2.jar"
+hash-format = "sha512"
+hash = "76db83bc34d8db5bf634263690c96e4a8e4b20832422837e33eab2419508c389b2da1dd2669de723500b060d42fa1273d2715f43a569d4fe72c958202eec5a91"
 
 [update]
-[update.curseforge]
-file-id = 7478501
-project-id = 656398
+[update.modrinth]
+mod-id = "C5tEOKu9"
+version = "PudROtuJ"

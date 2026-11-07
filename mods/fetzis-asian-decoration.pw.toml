@@ -3,11 +3,11 @@ filename = "fetzisasiandeco-fabric-1.8.2.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "59e40031e7b83d0214c59b40f5011b2a0f105c49"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Eg3hDPUB/versions/lxPuP3GN/fetzisasiandeco-fabric-1.8.2.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "1bf55ce763b8d88d1c4990d4dccb57beb3f90bee93fab780dd8cdfe8f5b3804eb11b410ae6bbdae652fabf9d81f95d0a28480f6bfd43abab15de1a634df8a0aa"
 
 [update]
-[update.curseforge]
-file-id = 9091249
-project-id = 678856
+[update.modrinth]
+mod-id = "Eg3hDPUB"
+version = "lxPuP3GN"

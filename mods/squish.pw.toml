@@ -3,11 +3,11 @@ filename = "squish-fabric-1.1+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e7c5ca441943d6140f7c47b478f4c8b8cf599f29"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3z1Z8gDY/versions/IchJixRM/squish-fabric-1.1%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "559a57a3e320a9acbbb39025718bbc61741d9d2a1d9162851daa773996d0b60c1d06693b59d4a1bfea3e0e2c74ac9835f453906712a5c791ffcf1c6555bc91ca"
 
 [update]
-[update.curseforge]
-file-id = 8855122
-project-id = 1383770
+[update.modrinth]
+mod-id = "3z1Z8gDY"
+version = "IchJixRM"

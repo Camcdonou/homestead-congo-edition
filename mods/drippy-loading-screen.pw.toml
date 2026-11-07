@@ -3,11 +3,11 @@ filename = "drippyloadingscreen_fabric_3.1.5_MC_1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "94bddfb517fa4badec2803249fbfd68c21cb3eea"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/ewn2Ljq2/drippyloadingscreen_fabric_3.1.5_MC_1.20.1.jar"
+hash-format = "sha512"
+hash = "671ffaba463d605d1f14f44f6188f1b0de17910fd1543393bf0996a1af236762979bb92da9ea77646dc31c5cb85d934f5183cab5be5cd1bcd3c1e1ffe8e160c3"
 
 [update]
-[update.curseforge]
-file-id = 8552901
-project-id = 511770
+[update.modrinth]
+mod-id = "v3CYg2V9"
+version = "ewn2Ljq2"

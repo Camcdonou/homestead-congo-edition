@@ -3,11 +3,11 @@ filename = "tooltipoverhaul-fabric-1.20.1-2.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "664d544f51094f05c9906244cc2d9df27fe5fcf4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vRFcG5n6/versions/o2aPzwYp/tooltipoverhaul-fabric-1.20.1-2.0.6.jar"
+hash-format = "sha512"
+hash = "ae2743d72c3619f4d0fa635be7f7a31f48e44c5c0e83c04b065ac01877d419c0c68dd1a883c0510812ad728c1306218d55e3e4fe04d20432a3cea15802d28948"
 
 [update]
-[update.curseforge]
-file-id = 9257143
-project-id = 1327508
+[update.modrinth]
+mod-id = "vRFcG5n6"
+version = "o2aPzwYp"

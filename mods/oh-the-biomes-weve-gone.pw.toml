@@ -3,11 +3,11 @@ filename = "Oh-The-Biomes-Weve-Gone-Fabric-1.8.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "15f61c6d6ef1092e07f13ffc8a274ec782d4f08d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/mBINzdSD/Oh-The-Biomes-Weve-Gone-Fabric-1.8.2.jar"
+hash-format = "sha512"
+hash = "ea8739b561bc037b7d3e57497aa3b9aa972857ca15b53d77a2a4aa88ecccc6d77e023abbc5213882bfe936f42d4febe5eaf09443bc99bf13edc260025631cf92"
 
 [update]
-[update.curseforge]
-file-id = 9114609
-project-id = 1070751
+[update.modrinth]
+mod-id = "NTi7d3Xc"
+version = "mBINzdSD"

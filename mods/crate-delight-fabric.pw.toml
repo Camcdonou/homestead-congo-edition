@@ -1,13 +1,13 @@
-name = "Crate Delight (Fabric)"
+name = "Crate Delight"
 filename = "cratedelight-26.07.01-1.20-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3470dfcfcb10b77f7d9dbfd8540ef1168f4a113b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/Zv5WA4jT/cratedelight-26.07.01-1.20-fabric.jar"
+hash-format = "sha512"
+hash = "1bc718f774c2ef9418628ee0d641a97a4a16165875f90b744a1550c5735f32d85812e971498ec325ba02216e58337666fd6824f6aa11741548a5bea2a18154d1"
 
 [update]
-[update.curseforge]
-file-id = 8350127
-project-id = 957811
+[update.modrinth]
+mod-id = "9rlXSyLg"
+version = "Zv5WA4jT"

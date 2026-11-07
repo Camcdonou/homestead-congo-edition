@@ -3,11 +3,11 @@ filename = "suppsquared-1.20-1.1.29.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "69c3d2c787660af1dcd9273c78e16d781cf4cb31"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/hGBKgPSc/suppsquared-1.20-1.1.29.jar"
+hash-format = "sha512"
+hash = "8d80656d0cfa090f8c818997e59624a471e9a3c51372ff677204b7fb8f8e57930ddad3bdd320685504ef890b4c45b8b4b9b860e8f44e4b8a15317078bcbce83b"
 
 [update]
-[update.curseforge]
-file-id = 7440332
-project-id = 838411
+[update.modrinth]
+mod-id = "dCCkNFwE"
+version = "hGBKgPSc"

@@ -3,11 +3,11 @@ filename = "colorwheel-fabric-1.3.0+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "907c0e589e9a1d27c50556654cee3108f5ff7b25"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/4uAiG406/colorwheel-fabric-1.3.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "9f526d25a676ced3bab3600a68e74577f22d538c9c2e3d2f93bf0da1a867c262f407872302afcc06a3928243aa5f0b90c58684e8602b860f8dfd190c40688233"
 
 [update]
-[update.curseforge]
-file-id = 8990883
-project-id = 1254143
+[update.modrinth]
+mod-id = "BzHgFoGz"
+version = "4uAiG406"

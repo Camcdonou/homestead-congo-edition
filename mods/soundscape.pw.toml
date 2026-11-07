@@ -3,11 +3,11 @@ filename = "soundscape-fabric-2.3+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0484e5346f038421807926327ad942a5bb03b1ef"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Xd4mySVx/versions/shcUyicL/soundscape-fabric-2.3%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "8768540b817a7ced5f06c82d70c14dabab298546b4818f52f53165abd1d4877bbd11f786377ddc9017cb1aec18ad15427cb1f76e8dd05f57e3788bc263b4fb15"
 
 [update]
-[update.curseforge]
-file-id = 9252983
-project-id = 1453324
+[update.modrinth]
+mod-id = "Xd4mySVx"
+version = "shcUyicL"

@@ -3,11 +3,11 @@ filename = "screenshottoclipboard-1.0.0-1.18.2.1.20.4-release.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ee2bba25253184d1935cd0d84717942052b6986b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/razcXGXv/versions/GPBamBZV/screenshottoclipboard-1.0.0-1.18.2.1.20.4-release.jar"
+hash-format = "sha512"
+hash = "d9d26dcc29c038c0e02e9294b073ac41887d17f3401b77a5251237e661a255c92654968023247ec31fd48c42022e4b0fa926c19aca135b2403033211d2484f11"
 
 [update]
-[update.curseforge]
-file-id = 7534085
-project-id = 1445937
+[update.modrinth]
+mod-id = "razcXGXv"
+version = "GPBamBZV"

@@ -3,11 +3,11 @@ filename = "create_oxidized-0.1.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bff3a3941c6277fd8395971d4c389dcd71e4157f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/X9kjRZeX/versions/TtSEksvr/create_oxidized-0.1.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "041f72822d763232ab791d9c8d47c2e6e65cafa8b526182d00515a508ebcefbe8f5bd9fdad5310763f4ee7bb7026042841193edd0cb1466cb2dcbcf4437d3373"
 
 [update]
-[update.curseforge]
-file-id = 5047386
-project-id = 953729
+[update.modrinth]
+mod-id = "X9kjRZeX"
+version = "TtSEksvr"

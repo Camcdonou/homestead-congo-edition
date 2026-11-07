@@ -3,11 +3,11 @@ filename = "neruina-3.3.3+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "493da2aca0f516572e498894c0b2bf660ef3af59"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1s5x833P/versions/W1Cxin3L/neruina-3.3.3%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "1f260306c296dc706b47d03d3870aa9cd8aa23ae050138fbf3c6686f5bf57d5a07044b4a40d852774473a19c73d8f126dab9477bbbfb096664f66d6c7766e62d"
 
 [update]
-[update.curseforge]
-file-id = 8451077
-project-id = 851046
+[update.modrinth]
+mod-id = "1s5x833P"
+version = "W1Cxin3L"

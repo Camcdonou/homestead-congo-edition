@@ -3,11 +3,11 @@ filename = "sawmill-1.20-1.4.11-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "59a576efbb1102a5e6430a1541f58a60a868be01"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/mJomg5hc/sawmill-1.20-1.4.11-fabric.jar"
+hash-format = "sha512"
+hash = "0a4e79c9b9374b7d8472e3b1303899da9d1c4c6df70f3186679842965ac0f27079a6a9f9348c0143864aabbedca65565b40c757dcf6fb27dc146a057d6a62c73"
 
 [update]
-[update.curseforge]
-file-id = 8345182
-project-id = 964817
+[update.modrinth]
+mod-id = "WRaRZdTd"
+version = "mJomg5hc"

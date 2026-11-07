@@ -3,11 +3,11 @@ filename = "spawnfilter-fabric-1.1.0+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f1f9c6a0c1ef47162dd9dff1303951ab87e7f19"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1ifwzbAK/versions/zDL4D4lj/spawnfilter-fabric-1.1.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "1ef4031312ac16900aae85716219657fd2745c05c9d1fb17ec841b23e0673667103121fcb8d2786e1222bb7b1677a8887a168a49986e2931186ff251760e3882"
 
 [update]
-[update.curseforge]
-file-id = 9319050
-project-id = 1478088
+[update.modrinth]
+mod-id = "1ifwzbAK"
+version = "zDL4D4lj"

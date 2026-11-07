@@ -3,11 +3,11 @@ filename = "tokimistoolshed-fabric-1.9+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1def910e6acf1cbbf2d334d81a0e9515c26edc7a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2HaoWnJc/versions/uOT9CMQz/tokimistoolshed-fabric-1.9%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "53950a6e5783cd1404c27ca80464da925475a84f2f0c0896533fbed92f4a0e7700fb08c98efc0b86ec9f73ebdb258402366ea7db89adba0da1d62b2ef801ad74"
 
 [update]
-[update.curseforge]
-file-id = 9319072
-project-id = 1366151
+[update.modrinth]
+mod-id = "2HaoWnJc"
+version = "uOT9CMQz"

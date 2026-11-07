@@ -3,11 +3,11 @@ filename = "cwb-5.0.0+1.20.0.fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "000e10295ab980ded6124af3d55506c83dd021d2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/tjtmtBtH/cwb-5.0.0%2B1.20.0.fabric.jar"
+hash-format = "sha512"
+hash = "9538898ee85a38555dc3027684c109d2ce44e296fde4337ac18ad527e3295f0c786a89d0fdca71e50bc2980d8f9584693599b92a4482ab6afad2e12f4b2f7c66"
 
 [update]
-[update.curseforge]
-file-id = 9308980
-project-id = 975120
+[update.modrinth]
+mod-id = "ETlrkaYF"
+version = "tjtmtBtH"

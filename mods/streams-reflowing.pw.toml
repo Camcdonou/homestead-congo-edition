@@ -3,11 +3,11 @@ filename = "StreamsReflowing-1.20.1-fabric-2.15.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1ac5b3ba1972c8eadf4338b6eb7d858078794a78"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oLS8HdJ1/versions/fPodpXtQ/StreamsReflowing-1.20.1-fabric-2.15.2.jar"
+hash-format = "sha512"
+hash = "d312360c94ce3329a510a2602057ee0483dc96cd1e7b6a467d3628b06e6037a8d845bfc6be985667ee73b49901ebfd198b603458a3780995b763811c0f66ea6a"
 
 [update]
-[update.curseforge]
-file-id = 9216753
-project-id = 1581408
+[update.modrinth]
+mod-id = "oLS8HdJ1"
+version = "fPodpXtQ"

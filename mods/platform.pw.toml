@@ -3,11 +3,11 @@ filename = "Platform-fabric-1.20.1-1.4.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "511cb49eb2fa292d1b517f44217dd70e582d3203"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/i6fiqm5y/versions/vghFfekW/Platform-fabric-1.20.1-1.4.2.jar"
+hash-format = "sha512"
+hash = "f75535c7cb913cfcc55f45c97b84d89c4b6dab23b52772cf197827c236ff9a6c1d696667da12c4885b5b4c500517711faf3e39984f257357f31fdddaf540391f"
 
 [update]
-[update.curseforge]
-file-id = 9318516
-project-id = 997634
+[update.modrinth]
+mod-id = "i6fiqm5y"
+version = "vghFfekW"

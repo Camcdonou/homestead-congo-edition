@@ -3,11 +3,11 @@ filename = "dyedend-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f2b4db772af6f596637a421da2f8e3e5bc889d06"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WHO6lEQb/versions/QoopW59e/dyedend-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "6de603a71d77c6edb6f66e91742f1ef2897310f4846b3e68f067e0fcb6eedaaae032eb8a3f1e704ed35cccf5753ff08474c9ce2b66970b6cf802647e6aea1bf1"
 
 [update]
-[update.curseforge]
-file-id = 7097701
-project-id = 1363591
+[update.modrinth]
+mod-id = "WHO6lEQb"
+version = "QoopW59e"

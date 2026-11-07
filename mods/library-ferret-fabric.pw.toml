@@ -1,13 +1,13 @@
-name = "Library Ferret - Fabric"
+name = "Library Ferret"
 filename = "libraryferret-fabric-1.20.1-4.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ec87a635904ac0d52e619fa004e93c406cc0d671"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DOB2l4oJ/versions/4vBB6GCj/libraryferret-fabric-1.20.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "255a391342ff7a9ed9c8526949f69fee3e4fcc1ccf339b9ef889f0eb9e30dc01510d3ba1895177416f7e404dc557248095d47ce4b98ee6ddf3b0669894792a62"
 
 [update]
-[update.curseforge]
-file-id = 4601231
-project-id = 532730
+[update.modrinth]
+mod-id = "DOB2l4oJ"
+version = "4vBB6GCj"

@@ -3,11 +3,11 @@ filename = "obsidianequipmentrework-fabric-1.1+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1a79af3318143467bdef56a4b33d8333c429a9d7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/F0yI8Qcm/versions/tjVqu8Wm/obsidianequipmentrework-fabric-1.1%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "65eec2add4b961300f26d294a23d94ef0baa3d4ab6454b41a7473315f4bafea04866d7280791555a14231448b44419399f0010f3a715d712f7aa3ec46984da45"
 
 [update]
-[update.curseforge]
-file-id = 9318976
-project-id = 1468750
+[update.modrinth]
+mod-id = "F0yI8Qcm"
+version = "tjVqu8Wm"

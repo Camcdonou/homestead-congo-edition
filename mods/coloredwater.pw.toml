@@ -3,11 +3,11 @@ filename = "Colored Water-fabric-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "35f8a551a8da103024e699495a2a13706739865e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/URKqRflb/versions/G8qy8Hk7/Colored%20Water-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "b5ff6a16777d35459c0d41d6aa07273a3f6b88cd9f238114ae0f36fb75fd4a1f23b7fd38309b3228efa4a283c4a045551b7482b515a708b1d5402b8e40d987b5"
 
 [update]
-[update.curseforge]
-file-id = 7160210
-project-id = 534920
+[update.modrinth]
+mod-id = "URKqRflb"
+version = "G8qy8Hk7"

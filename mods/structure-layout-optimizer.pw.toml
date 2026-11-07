@@ -3,11 +3,11 @@ filename = "structure_layout_optimizer-fabric-1.0.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "adb2c3a4447c131e56bcaf284c0daa8d47b092fe"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ayPU0OHc/versions/v4gfT0i9/structure_layout_optimizer-fabric-1.0.10.jar"
+hash-format = "sha512"
+hash = "1008dd5bfd113640f02ac658b7268fa701b651e708ca4570a4937efec6dcd746537fe8e841daaeda2a1bdb108e8fdefc07085d93b0b1cd26398042fd79b3a452"
 
 [update]
-[update.curseforge]
-file-id = 6125414
-project-id = 1087831
+[update.modrinth]
+mod-id = "ayPU0OHc"
+version = "v4gfT0i9"

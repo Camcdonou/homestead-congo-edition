@@ -3,11 +3,11 @@ filename = "mcw-paths-1.1.2-mc1.20.1fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "11f20d0386c6454f73dab3a07ded1adc1c639be2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/VRLhWB91/versions/mT7zAF5u/mcw-paths-1.1.2-mc1.20.1fabric.jar"
+hash-format = "sha512"
+hash = "f0a78fafc4691499efa359babd19eb9f8ffbb0585583710208bb0cb08c664200dc4552bc4ad5499afe841036fb7d3bbf632ad396b34968e37b800ac526a0791e"
 
 [update]
-[update.curseforge]
-file-id = 8207352
-project-id = 629153
+[update.modrinth]
+mod-id = "VRLhWB91"
+version = "mT7zAF5u"
